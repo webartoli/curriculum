@@ -1,0 +1,26 @@
+{
+  "name": "Curriculum",
+  "version": "0.0.0",
+  "description": "Claudio Bartoli curriculum vitae",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webartoli/curriculum.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "Claudio Bartoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webartoli/curriculum/issues"
+  },
+  "homepage": "https://github.com/webartoli/curriculum",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "bower": "~1.4.1"
+  }
+}
