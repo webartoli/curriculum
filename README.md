@@ -5,7 +5,7 @@ This project was born as a Spike to try Visual Studio Code on OsX and Google's a
 
 ## Dependency:
 
-npm, bower, grunt
+npm, bower, grunt, typescript
 
 ## To run this page:
 
